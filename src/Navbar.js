@@ -1,4 +1,5 @@
 import './Navbar.css'
+import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 const Navbar = () => {
     return ( 
         <div className="navbar">
@@ -6,8 +7,8 @@ const Navbar = () => {
             <br></br>
             <i>Happy day</i>
             <div className='pagelink'>
-            <a href="/" className='pagelink1'>Home</a>
-            <a href="/new" className='pagelink1'>New</a>
+            <Link to="/" className='pagelink1'>Home</Link>
+            <Link to="/new" className='pagelink1'>New</Link>
             </div>
         </div>
      );

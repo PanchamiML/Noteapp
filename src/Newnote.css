@@ -1,0 +1,62 @@
+.newnoteform{
+    
+}
+
+.subjectlabel{
+    font-size: larger;
+    margin-left: 40%;
+}
+.subjectinput{
+    width: 40%;
+    border: solid;
+    padding-left: 10px;
+    margin-left: 25%;
+}
+.topiclabel{
+    font-size: larger;
+    padding-left: 10px;
+    margin-left: 40%;
+}
+.topicinput{
+    width: 40%;
+    border: solid;
+    margin-left: 25%;
+}
+.datelabel{
+    font-size: larger;
+    margin-left: 40%;
+}
+.dateinput{
+    width: 40%;
+    border: solid;
+    margin-left: 24%;
+}
+.notelabel{
+    font-size: larger;
+
+}
+.noteinput{
+    width: 95%;
+    border: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.notebtn{
+    background-color: rgb(237, 110, 110);
+    border-color: rgb(237, 110, 110);
+    width: 100px;
+    margin-left: 45%;
+}
