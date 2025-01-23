@@ -19,8 +19,9 @@ const Listhome = (props) => {
                       <Link to={`/notes/${item.id}`} className="listlink">
                     <div className="card-header">{item.Subject}</div>
                     <div className="card-body">{item.Topic}</div>
-                    <div className="card-footer">{item.Date }<button className='dltbtn'  onClick={()=>dltNote(item.id)}  >Delete</button></div>
+                    
                     </Link>
+                    <div className="card-footer">{item.Date }<button className='dltbtn'  onClick={()=>dltNote(item.id)}  >Delete</button></div>
                   </div>
                   
                     </div>

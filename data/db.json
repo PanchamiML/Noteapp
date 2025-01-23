@@ -1,19 +1,39 @@
 {
-    "notes":[
-        {"Subject":"Economics",
-        "Topic":"Microeconomics",
-        "Date":"12-4-2023",
-        "Details":"Microeconomics is the study of how individuals and businesses make decisions about how to allocate limited resources. It focuses on how these decisions affect the supply and demand for goods and services, and how prices are determined.",
-        "id":1},
-        {"Subject":"Accountancy",
-        "Topic":"Auditing",
-        "Date":"20-4-2023",
-        "Details":"Auditing is a systematic process of examining a business's financial statements and other accounting information. It is a way to analyze a business's economic condition and determine if it is profitable.",
-        "id":2},
-        {"Subject":"Accountancy",
-        "Topic":"Cash flow",
-        "Date":"4-5-2023",
-        "Details":"Cash flow is the amount of money that moves into and out of a business over a specific period of time. It's a key indicator of a company's financial health and performance",
-        "id":3}
-    ]
+  "notes": [
+    {
+      "Subject": "Economics",
+      "Topic": "Microeconomics",
+      "Date": "12-4-2023",
+      "Details": "Microeconomics is the study of how individuals and businesses make decisions about how to allocate limited resources. It focuses on how these decisions affect the supply and demand for goods and services, and how prices are determined.",
+      "id": "1"
+    },
+    {
+      "Subject": "Accountancy",
+      "Topic": "Auditing",
+      "Date": "20-4-2023",
+      "Details": "Auditing is a systematic process of examining a business's financial statements and other accounting information. It is a way to analyze a business's economic condition and determine if it is profitable.",
+      "id": "2"
+    },
+    {
+      "Subject": "Accountancy",
+      "Topic": "Cash flow",
+      "Date": "4-5-2023",
+      "Details": "Cash flow is the amount of money that moves into and out of a business over a specific period of time. It's a key indicator of a company's financial health and performance",
+      "id": "3"
+    },
+    {
+      "id": "8aee",
+      "Subject": "Economics",
+      "Topic": "rate of interest",
+      "Date": "2024-04-12",
+      "Details": "It is an interesting topic"
+    },
+    {
+      "id": "74de",
+      "Subject": "Economics",
+      "Topic": "rate of interest",
+      "Date": "2024-04-12",
+      "Details": "It is an interesting topic"
+    }
+  ]
 }
