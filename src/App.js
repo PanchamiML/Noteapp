@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import { BrowserRouter as Router,Route,Switch } from "react-router-dom/cjs/react-router-dom.min";
 import Newnote from "./Newnote";
 import DetailedNote from "./DetailedNote";
+import NotFound from "./NotFound";
 
 
 function App() {
@@ -22,6 +23,12 @@ function App() {
       <DetailedNote/>
       
       </Route>
+
+      <Route path="*">
+      <NotFound/>
+      
+      </Route>
+      
       
 
 

@@ -12,8 +12,10 @@
 .pagelink{
     float: right;
    
+   
 }
 .pagelink1{
     text-decoration: none;
     color: white;
+    margin: 10px;
 }
